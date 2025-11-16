@@ -6,7 +6,7 @@
 
 A powerful, cross-platform terminal-based device booster written in Zig. Monitor system performance, manage processes, clean junk files, and optimize your device—all from your terminal.
 
-![Booster Demo](docs/demo.gif)
+![Booster Demo](media/image.png)
 
 ## ✨ Features
 
